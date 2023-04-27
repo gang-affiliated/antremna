@@ -1,5 +1,8 @@
-# here's some bars
+# here's the link to the problems: https://www.w3resource.com/python-exercises/python-basic-exercises.php
 
+and here's some bars:
+-
+-
 throw a dime in it you gon see im really with it
 fill your spine with some led rockin' true religion
 carry sticks all the time like its huntin' season
