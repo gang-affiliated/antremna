@@ -1,10 +1,10 @@
 # here's some bars
 
-throw a dime in it you gon see im really with it
-fill your spine with some led rockin' true religion
-carry sticks all the time like its huntin' season
-straight gang since a JID never had a reason
-"Banging streets never paid" thats all cap im hearing
+#throw a dime in it you gon see im really with it
+#fill your spine with some led rockin' true religion
+#carry sticks all the time like its huntin' season
+#straight gang since a JID never had a reason
+#"Banging streets never paid" thats all cap im hearing
 throw a shade catch a fade that's what bitches gettin'
 hold up wait let me switch up the flow a little
 got my name on my own so i know a little
